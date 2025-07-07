@@ -1,7 +1,7 @@
 /*
  * Tencent is pleased to support the open source community by making TBase available.  
  * 
- * Copyright (C) 2019 THL A29 Limited, a Tencent company.  All rights reserved.
+ * Copyright (C) 2019 Tencent.  All rights reserved.
  * 
  * TBase is licensed under the BSD 3-Clause License, except for the third-party component listed below. 
  * 
@@ -47,7 +47,7 @@
  * 2. Redistributions in binary form must reproduce the above copyright notice, this list of conditions and the following disclaimer in the documentation 
  * and/or other materials provided with the distribution.
  * 
- * 3. Neither the name of THL A29 Limited nor the names of its contributors may be used to endorse or promote products derived from this software without 
+ * 3. Neither the name of Tencent nor the names of its contributors may be used to endorse or promote products derived from this software without 
  * specific prior written permission.
  * 
  * THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS" AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, 
@@ -102,4 +102,3 @@ typedef FormData_pg_subscription_table *Form_pg_subscription_table;
 #define Anum_pg_subscription_table_pubname      3
 
 #endif                            /* PG_SUBSCRIPTION_TABLE_H */
-
